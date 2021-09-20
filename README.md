@@ -28,13 +28,7 @@ https://www.goldcashcoin.co.uk/halvingschedule.html
 One Click CPU Miner:https://www.goldcashcoin.co.uk/GoldCashGUIMiner.zip
 
 # Mining pools
-Rplant:https://pool.rplant.xyz/
-
-Zwembad:http://zwembad.zapto.org/
-
-Gold Cash Pool (0% fee):https://goldcash-pool.de/
-
-GPUHOT:https://gpuhot.com/
+Rplant:https://pool.gold-cash.club/
 
 Pool list:https://miningpoolstats.stream/goldcash
 
